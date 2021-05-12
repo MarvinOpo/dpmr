@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "ejs": "~1.0.0",
